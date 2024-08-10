@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+}
+
+.row {
+    margin-top: 100px;
+}
+
+h1 {
+    font-family: "Yeseva One", serif;
+    font-size: 200px;
+    color: #ADC4CE;
+    text-shadow: 3px 3px 3px #000000a8;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    color: #EEE0C9;
+}
+
+.icons-svg {
+    width: 100px;
+    height: 100px;
+    color: #EEE0C9;
+}
+
+.waves img{
+    width: 100%;
+    margin-top: 110px;
+}
